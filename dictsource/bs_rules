@@ -47,6 +47,10 @@
 	ќ	ć	// U+045C
 	џ	dž	// U+045F
 
+.replace
+// Korean Hangul to Unicode code point string
+어	U+C5B4	// U+C5B4
+
 .group a
         a        a
      X) a ($w_alt1 a:
