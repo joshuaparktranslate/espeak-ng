@@ -47,6 +47,10 @@
 	ќ	ć	// U+045C
 	џ	dž	// U+045F
 
+.replace
+// Korean Hangul
+    어	어	// U+C5B4
+
 .group a
         a        a
      X) a ($w_alt1 a:
