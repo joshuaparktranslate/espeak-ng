@@ -239,4 +239,29 @@
 	ώ	'omeg&||t'onos
 	ό	'omIkr*on||t'onos
 
+.group 0x31   // Hangul Compatibility Jamo
 
+	ㄱ	sl'ovog**,Ijed,&ntr**Id,EvE
+	ㄴ	sl'ovon**,Ijed,&ntr**Id,EvE
+	ㄷ	sl'ovod**,Ijed,&ntr**Id,EvE
+	ㄹ	sl'ovotr**,Ijed,&ntr**Id,EvE
+	ㅁ	sl'ovom**,Ijed,&ntr**Id,EvE
+	ㅂ	sl'ovob**,Ijed,&ntr**Id,EvE
+	ㅅ	sl'ovos**,Ijed,&ntr**Id,EvE
+	ㅇ	sl'ovong**,Ijed,&ntr**Id,EvE
+	ㅈ	sl'ovodZ**,Ijed,&ntr**Id,EvE
+	ㅊ	sl'ovotS**,Ijed,&ntr**Id,EvE
+	ㅋ	sl'ovok**,Ijed,&ntr**Id,EvE
+	ㅌ	sl'ovot**,Ijed,&ntr**Id,EvE
+	ㅍ	sl'ovop**,Ijed,&ntr**Id,EvE
+	ㅎ	sl'ovoh**,Ijed,&ntr**Id,EvE
+	ㅏ	sl'ovoa**,Ijed,&ntr**Id,EvE
+	ㅑ	sl'ovoja**,Ijed,&ntr**Id,EvE
+	ㅓ	sl'ovoo**,Ijed,&ntr**Id,EvE
+	ㅕ	sl'ovojo**,Ijed,&ntr**Id,EvE
+	ㅗ	sl'ovoo**,Ijed,&ntr**Id,EvE
+	ㅛ	sl'ovojo**,Ijed,&ntr**Id,EvE
+	ㅜ	sl'ovou**,Ijed,&ntr**Id,EvE
+	ㅠ	sl'ovoju**,Ijed,&ntr**Id,EvE
+	ㅡ	sl'ovoy**,Ijed,&ntr**Id,EvE
+	ㅣ	sl'ovoi**,Ijed,&ntr**Id,EvE
