@@ -239,4 +239,6 @@
 	ώ	'omeg&||t'onos
 	ό	'omIkr*on||t'onos
 
+.group 0x31   // Hangul Compatibility Jamo
 
+	ㄹ	sl'ovotr**,Ijed,&ntr**Id,EvE
